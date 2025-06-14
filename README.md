@@ -48,7 +48,9 @@ Built using **Python**, **Streamlit**, and visualized with **Graphviz**.
 ## 📂 Project Structure
 
 ├── app.py # Streamlit app code
+
 ├── example_image.png # Example lossless image
+
 ├── README.md # Project documentation
 
 ---
@@ -92,6 +94,6 @@ Built using **Python**, **Streamlit**, and visualized with **Graphviz**.
   ## 🤝 License
 
 This project is licensed under the MIT License.  
-See the LICENSE file for details.
+See the LICENSE file (LICENSE) for details.
 
 
